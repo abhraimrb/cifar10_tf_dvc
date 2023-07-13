@@ -2,19 +2,17 @@ outs:
 - path: tf_model_cifar10
   files:
   - relpath: fingerprint.pb
-    md5: 3174cd1299fcedfef0d41e5aa9123771
+    md5: f0000532f64487d565abf6cb9f9c434f
     size: 55
   - relpath: keras_metadata.pb
-    md5: 94e4548becd50e265b3ca4608fa097a6
-    size: 14651
-    version_id: '2023-07-13T11:36:17.6384772Z'
-    etag: '"0x8DB83955F5D7B04"'
+    md5: 1f40e424ac3216c63a5e99f60563b9d2
+    size: 18860
   - relpath: saved_model.pb
-    md5: 1dc376ccf34eb7e3691f0893e989897a
-    size: 123149
+    md5: a5e5eda37d9bb78385871e26ff79e8c2
+    size: 152170
   - relpath: variables/variables.data-00000-of-00001
-    md5: 066a049ce21c07099e5e31e3ccb536e6
-    size: 12729525
+    md5: 48ef24648a3db3a28de754c211924a6a
+    size: 1480599
   - relpath: variables/variables.index
-    md5: 82ee17f59360aa4ce7b27369294f9cfd
-    size: 1938
+    md5: 7a1f76c50fcb7a4050baa5ae9e5bb765
+    size: 2269
