@@ -1,0 +1,6 @@
+[core]
+    remote = cifar10
+['remote "cifar10"']
+    url = azure://cifar10-images
+    version_aware = true
+    connection_string = DefaultEndpointsProtocol=https;AccountName=cifar10project;AccountKey=kVeDEXDD7C69Sux3r9KYumvOxF//pGEr9SYHJkNpRJJAj8MAVZJxN44jnCechxKPvEP3+QzwfT0J+AStbfpEFQ==;EndpointSuffix=core.windows.net
